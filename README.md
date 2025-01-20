@@ -1,17 +1,25 @@
-# 💫 About Me:
-I'm Cristian Rosales, a passionate software developer currently pursuing a degree in Systems Engineering at the Universidad Tecnológica Nacional (UTN), Mendoza. With experience in Java, SpringBoot, and MySQL, I’ve developed full-stack applications, focusing on backend development, REST APIs, and database management.<br>I enjoy solving complex problems and thrive in collaborative environments using Agile and Scrum methodologies.<br>I’m proficient in Git, GitHub, Junit, and Postman, with a strong foundation in C++, C, and software testing. I continuously improve my skills through online courses, on Udemy, and am eager to apply my knowledge to real-world challenges.
+## Hi! 👋 I'm Cristian
 
+- 🌍  I'm based in Mendoza, Argentina.
+- 👨‍💻 Working in a personal project.
+- 📚 I'm a student of Information Systems Engineering at [UTN.FRM](https://www4.frm.utn.edu.ar/).
+- 🌱 Passionate about java backend
+- :heart: I love programming and learning every day to become the best developer I can be :)
+- 📫 How to reach me:    
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/crosaless) 
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/crosaless/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:crstiannrosales12@gmail.com)
+
+<div align="center"><img width="250px" height="300px" src="https://media.giphy.com/media/5eLDrEaRGHegx2FeF2/giphy.gif" /></div>
+
 
 # 💻 Tech Stack:
-<p align= "center">
+<p align= "left">
   These are just some of the technologies that I use the most on a personal/professional level.
 </p>
 
 <p align="center">
-  <img loading="lazy" src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" 
+  <img loading="lazy" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/459px-ISO_C%2B%2B_Logo.svg.png" 
   height="40">
   <img loading="lazy" src="https://cdn-icons-png.flaticon.com/256/226/226777.png" 
   height="40">
@@ -35,7 +43,7 @@ I'm Cristian Rosales, a passionate software developer currently pursuing a degre
   height="40">
   <img loading="lazy" src="https://pluspng.com/img-png/nodejs-logo-png-node-js-development-296.png" 
   height="40">
-  <img loading="lazy" src="https://seeklogo.com/images/P/postman-logo-F43375A2EB-seeklogo.com.png" 
+  <img loading="lazy" src="https://upload.wikimedia.org/wikipedia/commons/c/c2/Postman_%28software%29.png?20211024200826" 
   height="40">
   <img loading="lazy" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/512px-HTML5_logo_and_wordmark.svg.png" 
   height="40">
